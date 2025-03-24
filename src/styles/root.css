@@ -1,23 +1,16 @@
 :root {
   /*=====  COLORS =====  */
 
-   /* TEXT COLORS */
-   --text-primary: var(--color-white);
-   --text-secondary: var(--color-gray);
-   --text-accent: '';
+  /* TEXT COLORS */
+  --text-primary: var(--color-white);
+  --text-secondary: var(--color-gray);
+  --text-accent: '';
 
   /* BASE COLORS */
-
-
- 
-
   /* ACCENT COLORS */
-
-
   /* BACKGROUND COLORS */
   --bg-primary: var(--color-white);
   --bg-dark: var(--color-black);
-
 
   /* ===== INDENTS ===== */
   --indent-xs: 4px;
